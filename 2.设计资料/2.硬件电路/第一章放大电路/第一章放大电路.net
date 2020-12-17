@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source F:\crystal_valve\2.设计资料\2.硬件电路\第一章放大电路\第一章放大电路.sch)
-    (date "2020/12/8 23:09:14")
+    (date "2020/12/11 23:22:31")
     (tool "Eeschema (5.1.6)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -233,7 +233,7 @@
       (sheetpath (names /) (tstamps /))
       (tstamp 5FCF9741))
     (comp (ref D1)
-      (value D_Small)
+      (value 1N4148)
       (footprint Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder)
       (datasheet ~)
       (libsource (lib Device) (part D_Small) (description "Diode, small symbol"))
